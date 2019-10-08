@@ -1,0 +1,10 @@
+CUDA_VISIBLE_DEVICES=0 python3.7 launcher_tools/kmeans_from_embeddings.py --n 10 --file RESULTS/blogCatalog-2D-KMEANS-1/  
+CUDA_VISIBLE_DEVICES=0 python3.7 launcher_tools/kmeans_from_embeddings.py --n 10 --file RESULTS/blogCatalog-2D-KMEANS-2/  
+CUDA_VISIBLE_DEVICES=0 python3.7 launcher_tools/kmeans_from_embeddings.py --n 10 --file RESULTS/blogCatalog-3D-KMEANS-1/  
+CUDA_VISIBLE_DEVICES=0 python3.7 launcher_tools/kmeans_from_embeddings.py --n 10 --file RESULTS/blogCatalog-3D-KMEANS-2/  
+CUDA_VISIBLE_DEVICES=0 python3.7 launcher_tools/kmeans_from_embeddings.py --n 10 --file RESULTS/blogCatalog-4D-KMEANS-1/  
+CUDA_VISIBLE_DEVICES=0 python3.7 launcher_tools/kmeans_from_embeddings.py --n 10 --file RESULTS/blogCatalog-4D-KMEANS-2/  
+CUDA_VISIBLE_DEVICES=0 python3.7 launcher_tools/kmeans_from_embeddings.py --n 10 --file RESULTS/blogCatalog-5D-KMEANS-1/  
+CUDA_VISIBLE_DEVICES=0 python3.7 launcher_tools/kmeans_from_embeddings.py --n 10 --file RESULTS/blogCatalog-5D-KMEANS-2/ 
+CUDA_VISIBLE_DEVICES=0 python3.7 launcher_tools/kmeans_from_embeddings.py --n 10 --file RESULTS/blogCatalog-10D-KMEANS-1/  
+CUDA_VISIBLE_DEVICES=0 python3.7 launcher_tools/kmeans_from_embeddings.py --n 10 --file RESULTS/blogCatalog-10D-KMEANS-2/  
